@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview:
-The reason behind this project is to be able to figure out the temperature and precipitation for a potential surf shop investment we could be given. The investor want to know that the shop has good weather climates in the location it is in before investing, so our goal is to go through data and see if this investor believes this is the right call for us.
+The purpose of this project is to analyze the temperature and precipitation trends in a location being considered for a potential surf shop investment. The investor wants assurance that the area has favorable weather conditions before moving forward. Our goal is to review the data and help the investor make an informed decision.
 
 ## Results:
 - There are around 200 more recorded June temperatures than December.
